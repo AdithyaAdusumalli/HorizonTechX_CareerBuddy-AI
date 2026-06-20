@@ -1,0 +1,169 @@
+
+[2026-06-13 16:36:06]
+You: help
+CareerBuddy AI: Commands:
+- hello
+- placement tips
+- resume tips
+- interview tips
+- python tips
+- aptitude tips
+- github tips
+- hackathon tips
+- motivate me
+- joke
+- time
+- date
+- history
+- clear history
+- bye
+
+[2026-06-13 16:36:14]
+You: hi
+CareerBuddy AI: Hello! Ready for placements and hackathons?
+
+[2026-06-13 16:36:21]
+You: maybe
+CareerBuddy AI: Sorry, I don't understand that.
+Type 'help' to see available commands.
+
+[2026-06-13 16:36:31]
+You: time
+CareerBuddy AI: Current Time: 04:36:31 PM
+
+[2026-06-13 16:36:49]
+You: hello
+CareerBuddy AI: Hi Adithya! How can I help you today?
+
+[2026-06-13 16:36:59]
+You: how do u know my name
+CareerBuddy AI: Sorry, I don't understand that.
+Type 'help' to see available commands.
+
+[2026-06-13 16:38:04]
+You: motivation
+CareerBuddy AI: Sorry, I don't understand that.
+Type 'help' to see available commands.
+
+[2026-06-13 16:38:08]
+You: help
+CareerBuddy AI: Commands:
+- hello
+- placement tips
+- resume tips
+- interview tips
+- python tips
+- aptitude tips
+- github tips
+- hackathon tips
+- motivate me
+- joke
+- time
+- date
+- history
+- clear history
+- bye
+
+[2026-06-13 16:38:21]
+You: resume tips
+CareerBuddy AI: Keep your resume one page, highlight projects, internships, and GitHub.
+
+[2026-06-13 16:38:29]
+You: joke
+CareerBuddy AI: Why do programmers prefer dark mode? Because light attracts bugs!
+
+[2026-06-13 16:38:34]
+You: joke
+CareerBuddy AI: Why did the Python developer wear glasses? Because he couldn't C.
+
+[2026-06-13 16:38:45]
+You: joke
+CareerBuddy AI: Why do programmers prefer dark mode? Because light attracts bugs!
+
+[2026-06-13 16:38:50]
+You: joke
+CareerBuddy AI: Why did the Python developer wear glasses? Because he couldn't C.
+
+[2026-06-13 16:39:04]
+You: motivate me
+CareerBuddy AI: Success is the sum of small efforts repeated daily.
+
+[2026-06-13 16:39:12]
+You: help
+CareerBuddy AI: Commands:
+- hello
+- placement tips
+- resume tips
+- interview tips
+- python tips
+- aptitude tips
+- github tips
+- hackathon tips
+- motivate me
+- joke
+- time
+- date
+- history
+- clear history
+- bye
+
+[2026-06-13 16:49:40]
+You: commands
+CareerBuddy AI: 
+Available Commands:
+hello
+hi
+how are you
+thanks
+study tips
+cgpa tips
+placement tips
+resume tips
+interview tips
+python tips
+github tips
+hackathon tips
+aptitude tips
+hr questions
+motivate me
+quote
+joke
+time
+date
+history
+clear history
+about
+creator
+version
+bye
+exit
+
+[2026-06-13 16:49:56]
+You: hackathon tips
+CareerBuddy AI: Build MVP first.
+
+[2026-06-13 16:50:07]
+You: mvp
+CareerBuddy AI: Sorry, I didn't understand that.
+Type 'commands' to see available options.
+
+[2026-06-13 16:50:19]
+You: what is mvp
+CareerBuddy AI: Sorry, I didn't understand that.
+Type 'commands' to see available options.
+
+[2026-06-13 16:51:56]
+You: hackathon tips
+CareerBuddy AI: Divide work efficiently.
+
+[2026-06-13 16:52:32]
+You: hackathon thips
+CareerBuddy AI: Build MVP first.
+
+[2026-06-13 16:52:50]
+You: python tips
+CareerBuddy AI: Work on projects.
+
+[2026-06-13 16:53:00]
+You: python tips
+CareerBuddy AI: Work on projects.
